@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N (Look this from Zerthox)
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #CE0000;
-	--hover-color: #FF0000
+	--main-color: #ffb82b;
+	--hover-color: #ffa900
     --background-blur: 0px;
     --background-brightness: 100%;
 }
