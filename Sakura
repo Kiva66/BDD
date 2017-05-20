@@ -25,7 +25,7 @@ Changelog: https://git.io/v6r5N (Look this from Zerthox)
 */
 :root {
 	--main-color: #FFFFFF;
-	--hover-color: #EC7C8C
+	--hover-color: #EC7C8C;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -51,3 +51,4 @@ body::after,
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
 */
+
